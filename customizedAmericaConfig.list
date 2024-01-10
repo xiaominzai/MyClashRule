@@ -1,3 +1,4 @@
 # 内容：自定义美国节点
 # 数量：5条
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,openai.com
