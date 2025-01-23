@@ -1,3 +1,4 @@
 # 内容：自定义手动节点
 # 数量：5条
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,openai.com
