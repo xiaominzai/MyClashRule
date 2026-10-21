@@ -13,6 +13,7 @@
 ruleset=出国快速,https://raw.githubusercontent.com/xiaominzai/MyClashRule/main/customizedAmericaConfig.list
 ruleset=要手动选,https://raw.githubusercontent.com/xiaominzai/MyClashRule/main/cusSelect.list
 ruleset=🏢 香港定制,https://raw.githubusercontent.com/xiaominzai/MyClashRule/main/HongKong.list
+ruleset=🎼 Spotify,https://raw.githubusercontent.com/xiaominzai/ClashCustomRule/refs/heads/master/deprecated/spotify.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/xiaominzai/ClashCustomRule/refs/heads/master/deprecated/proxies.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/xiaominzai/ClashCustomRule/refs/heads/master/deprecated/direct.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -42,7 +43,6 @@ ruleset=🎥 Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cl
 ruleset=🎥 Disney+,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DisneyPlus.list
 ruleset=📽️ PrimeVideo,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonPrimeVideo/AmazonPrimeVideo.yaml
 ruleset=🌪 Gitlab,https://raw.githubusercontent.com/xiaominzai/ClashCustomRule/refs/heads/master/deprecated/Gitlab.list
-ruleset=🎼 Spotify,https://raw.githubusercontent.com/xiaominzai/ClashCustomRule/refs/heads/master/deprecated/spotify.list
 ruleset=🍑 DMMCOJP,https://raw.githubusercontent.com/xiaominzai/ClashCustomRule/refs/heads/master/deprecated/dmmjp.list
 ruleset=📺 巴哈姆特,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
 ruleset=📺 Bilibili,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
