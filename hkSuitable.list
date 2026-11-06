@@ -1,0 +1,4 @@
+# 这些域名走「香港合适」。默认是香港节点，分组里可以改成别的地区。
+# 以后发现某个站用香港更合适，加一行：DOMAIN-SUFFIX,域名
+DOMAIN-SUFFIX,pwnedpasswords.com
+DOMAIN-SUFFIX,haveibeenpwned.com
