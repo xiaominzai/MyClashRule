@@ -1,4 +1,4 @@
-# 这些域名走「香港节点」，展开后手选具体香港线路。
-# 以后发现某个站要固定某条香港线路，加一行：DOMAIN-SUFFIX,域名
+# 这些域名走选择组「香港合适」。默认第一项是香港自动，要固定线路就在这一组里点具体节点。
+# 「香港节点」只放线路，跟「美国节点」一样，不直接绑网站。
 DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,haveibeenpwned.com
