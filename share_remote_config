@@ -16,6 +16,9 @@ ruleset=要手动选,https://raw.githubusercontent.com/xiaominzai/MyClashRule/ma
 ruleset=🇭🇰 香港合适,https://raw.githubusercontent.com/xiaominzai/MyClashRule/main/HongKong.list
 ruleset=🎼 Spotify,https://raw.githubusercontent.com/xiaominzai/ClashCustomRule/refs/heads/master/deprecated/spotify.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/xiaominzai/ClashCustomRule/refs/heads/master/deprecated/proxies.list
+; 苹果必须在 direct / ChinaDomain 之前，否则会被全球直连截走
+ruleset=🍎 苹果服务,https://raw.githubusercontent.com/xiaominzai/MyClashRule/main/appleExtra.list
+ruleset=🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/xiaominzai/ClashCustomRule/refs/heads/master/deprecated/direct.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
@@ -29,7 +32,6 @@ ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 ruleset=Ⓜ️ 微软云盘,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
 ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
-ruleset=🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
 ruleset=📲 Telegram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list

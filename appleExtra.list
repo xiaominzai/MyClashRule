@@ -1,0 +1,3 @@
+# ACL4SSR Apple.list 没有 apple.cn；不补会被 GEOSITE,cn / ChinaDomain 截走。
+# 和 Apple.list 一起挂在「🍎 苹果服务」，且必须排在 direct / cn 直连之前。
+DOMAIN-SUFFIX,apple.cn
