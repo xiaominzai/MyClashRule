@@ -2,3 +2,13 @@
 # 香港线路不可用时，组里还有日本、新加坡、美国、台湾、韩国的具体线路，以及「自动选择」。
 DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursorvm.com
+DOMAIN-SUFFIX,workos.com
+DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,x.ai
